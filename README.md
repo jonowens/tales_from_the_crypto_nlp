@@ -113,7 +113,6 @@ plt.axis('off')
 
 4. Click the Run All Cells button, double arrows, found at the top of the main workspace to run all cells in the Jupyter Notebook file.
 
-5. All cells in the notbook run.
 ![Run The Analysis](./images/run_analysis.gif)
 
 ---
